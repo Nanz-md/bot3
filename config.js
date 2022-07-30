@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'Created by'
-global.author = 'Nanz⁩⁩'
+global.author = 'Nanz⁩⁩-MD'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
